@@ -1,3 +1,4 @@
 Moodle|https://moodle.oncampus.de
 Moodalis|https://moodalis.oncampus.de
 Polli|https://polli.bht-berlin.de
+BHT Website|https://bht-berlin.de
